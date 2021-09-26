@@ -3,8 +3,14 @@ Assignment #1 of Mobile Robotics, Monsoon 2021 at IIIT-Hyderabad.
 
 This assignment is designed to get you familiar with handling Point Cloud Registration and Occupancy Grid construction. Follow the instructions in the notebook for more information about the assignment.
 
-Announced on:
-Submission by: 
+Announced on: 
+Submission by:   
+
+
+### Setup
+Extract the data to data/ folder
+then the LiDAR folder should be at relative to Assignment.ipynb
+data/data/LiDAR
 
 **TO DO**
 
